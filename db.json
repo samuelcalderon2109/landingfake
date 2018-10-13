@@ -1,0 +1,22 @@
+{ 
+  "empleados": [ 
+    { 
+      "id": 1, 
+      "first_name": "Samuel", 
+      "last_name": "Calderon", 
+      "email": "samuel@test.com" 
+    }, 
+    { 
+      "id": 2, 
+      " first_name ":" sebastian ", 
+      " last_name ":" calderon ", 
+      " email ":" sebastian@test .com " 
+    }, 
+    { 
+      " id ": 3, 
+      " first_name ":" mariano ", 
+      " last_name ":" luan " , 
+      "correo electrónico": "luan@test.com"
+    } 
+  ] 
+}
