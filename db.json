@@ -22,21 +22,18 @@
 "sedes": [ 
     { 
       "id": 1, 
-      "first_name": "Samuel", 
-      "last_name": "Calderon", 
-      "email": "samuel@test.com" 
+      "Nombre": "Cajamarca" 
+       
     }, 
     { 
       "id": 2, 
-      " first_name ":" sebastian ", 
-      " last_name ":" calderon ", 
-      " email ":" sebastian@test .com " 
+      "Nombre": "Lima" 
+       
     }, 
     { 
-      " id ": 3, 
-      " first_name ":" mariano ", 
-      " last_name ":" luan " , 
-      "correo electrónico": "luan@test.com"
-    } 
+      "id": 3, 
+      "Nombre": "Arequipa" 
+       
+    }, 
   ] 
 }
