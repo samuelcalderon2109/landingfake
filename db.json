@@ -1,20 +1,20 @@
-{ 
- 
-"sedes": [ 
-    { 
-      "id": 1, 
-      "Nombre": "Cajamarca" 
-       
-    }, 
-    { 
-      "id": 2, 
-      "Nombre": "Lima" 
-       
-    }, 
-    { 
-      "id": 3, 
-      "Nombre": "Arequipa" 
-       
-    }, 
-  ] 
+{
+  "sedes": [
+    {
+      "id": 1,
+      "nombre": "Cajamarca"
+    },
+    {
+      "id": 1,
+      "nombre": "Lima"
+    },
+    {
+      "id": 1,
+      "nombre": "Arequipa"
+    }
+
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
