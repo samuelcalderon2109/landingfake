@@ -11,8 +11,11 @@
     {
       "id": 3,
       "nombre": "Arequipa - 2"
-    }
-
+    },
+    {
+      "id": 4,
+      "nombre": "Lurin - 2"
+    },
   ],
   "profile": {
     "name": "typicode"
