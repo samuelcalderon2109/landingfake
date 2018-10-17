@@ -2,15 +2,15 @@
   "sedes": [
     {
       "id": 1,
-      "nombre": "Cajamarca"
+      "nombre": "Cajamarca - 1"
     },
     {
       "id": 2,
-      "nombre": "Lima"
+      "nombre": "Lima - 1"
     },
     {
       "id": 3,
-      "nombre": "Arequipa"
+      "nombre": "Arequipa - 2"
     }
 
   ],
